@@ -1,6 +1,6 @@
 # Installation
 
-copy this folder into `ComfyUI\custom_nodes\`
+Download ZIP and copy the folder in zip into `ComfyUI\custom_nodes\`
 
 # Usage
 
